@@ -7,7 +7,6 @@
 import javax.swing.*;
 import java.awt.*;
 
-
 public class NextDate{
     static JTextField YearInput = new JTextField();
     static JTextField MonthInput = new JTextField();
