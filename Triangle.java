@@ -1,10 +1,20 @@
+/**
+ * Triangle class
+ *
+ * @author LVTA
+ * @date 2023/4/20
+ */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Triangle{
-    //定义框体
+    /**
+     *
+     * 三个输入框
+     *
+     */
     static JTextField Ainput = new JTextField();
     static JTextField Binput = new JTextField();
     static JTextField Cinput = new JTextField();
